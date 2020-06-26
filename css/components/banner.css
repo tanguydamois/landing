@@ -1,0 +1,19 @@
+.banner{
+  background-image: url(../../images/background.png);
+  color: white;
+  background-size: cover;
+  padding: 140px 0px;
+}
+
+.btn{
+  background-color: #3289E0;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 5px;
+
+}
+
+.btn:hover {
+  background-color: #91C4F7;
+  colo
+}
